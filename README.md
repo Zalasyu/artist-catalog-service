@@ -1,0 +1,1 @@
+# artist-catalog-service
